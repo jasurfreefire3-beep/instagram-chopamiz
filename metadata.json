@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Login",
+  "description": "Pixel-perfect replica of the modern Instagram login screen for desktop and mobile devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
